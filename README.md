@@ -9,4 +9,4 @@ The code needs following additional libraries/tools to be executed:
 
 Link for real-datassets: http://archive.ics.uci.edu/ml
 
-We have also added the visual results of SBSC and and other baseline methods for synthetic datasets.
+We have also added the visual results of SBSC and other baseline methods for synthetic datasets.
