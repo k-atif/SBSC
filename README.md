@@ -71,3 +71,7 @@ You can use online platforms like Google Colab and Kaggle to run the given noteb
    9. *df\_RT* stores the execution time taken by SBSC for every dataset.  
 8. The last cell is for analyzing the stored labels.  
 9. For the ablation study, it is required to run the algorithm by varying the *k\_dash*  parameter from *4 to 15* and *num\_rounds* from *2 to 5*.
+
+## **Baseline Methods**
+
+The code of the baseline methods are included in the baseline_methods.ipynb file. It's straightforward to run the algorithms of the baseline clustering methods.
